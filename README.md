@@ -1,3 +1,5 @@
+Just trying to make something similar to a death calculator that used to be online when I was younger
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
